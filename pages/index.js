@@ -23,7 +23,7 @@ export default function Home() {
             <Navbar />
           </nav>
 
-          <div className="absolute md:ml-10 md:my-10  text-black">
+          <div className="absolute md:ml-10 md:my-5  text-black">
             <div className=" ">
               <Image src={jain} alt="jain" className="w-80 z-20 " />
             </div>
