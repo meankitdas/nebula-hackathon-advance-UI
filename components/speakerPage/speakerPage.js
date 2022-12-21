@@ -5,7 +5,7 @@ export default function SpeakerPage() {
         <div className="flex w-full h-1/2 ">
           <div className="w-2/3 flex flex-col text-8xl items-center justify-center ">
             <div className="text-secondary">
-              <h1>Birth Of</h1>
+              <h1>Birth of</h1>
               <h1>Innovator</h1>
             </div>
           </div>
